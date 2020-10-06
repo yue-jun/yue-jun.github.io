@@ -1,7 +1,7 @@
 let wrapper = document.getElementById('wrapper')
 let smallBox = document.getElementById('smallBox')
 let largeBox = document.getElementById('largeBox')
-
+/* 此处导入图片 */
 for (let i = 1; i < 7; i++) {
     let sImg = document.createElement('img');
     let lImg = document.createElement('img');
